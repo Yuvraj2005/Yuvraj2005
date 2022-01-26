@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Yuvraj2005
-- 👀 I’m interested in Front-End Programming 
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, I’m @Techy Yuvraj 
+- 👀 I’m interested in Front-End Programming.
+- ⭐ I used to make projects by use of HTML, CSS and Python.
+- 🌱 I’m currently learning JavaScript and Tailwind.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Follow me on LinkedIn by this link- www.linkedin.com/in/yuvraj-gupta-98a57520b and subscribe my youtube channel- https://www.youtube.com/channel/UCQeDCBiOnb2PaH4CmFr6kSw
 
