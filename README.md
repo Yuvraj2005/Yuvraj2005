@@ -3,7 +3,7 @@
 - ⭐ I used to make projects by use of HTML, CSS and Python.
 - 🌱 I’m currently learning JavaScript and Tailwind.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Subscribe my youtube channel- https://www.youtube.com/channel/UCQeDCBiOnb2PaH4CmFr6kSw 
+- 📫 How to reach me: Subscribe my youtube channel
 
 <!---
 Yuvraj2005/Yuvraj2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
