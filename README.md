@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Techy Yuvraj, formely owner of @Tech Basics
+- 👋 Hi, I’m Yuvraj, owner of @Tech Basics
 - 👀 I’m interested in Front-End Programming.
 - ⭐ I used to make projects by use of HTML and CSS.
 - 🌱 I’m currently learning JavaScript.
